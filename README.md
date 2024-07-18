@@ -19,7 +19,6 @@ FoodPanda is a comprehensive food ordering system built with Spring Boot, React,
 - Browse restaurant menus and items
 - Add items to the cart and place orders
 - Stripe payment integration for secure transactions
-- Order history and order tracking
 
 ## Tech Stack
 - **Backend**: Spring Boot, Java
